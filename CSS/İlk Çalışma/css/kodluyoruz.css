@@ -1,0 +1,19 @@
+/* Layout */
+body{
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+}
+h2{
+    color:red;
+    font-size: 60px;
+    text-transform: uppercase;
+
+}
+p{
+    font-size: 40px;
+}
+
+ul{
+    color:blue;
+}

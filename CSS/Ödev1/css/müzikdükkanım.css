@@ -1,0 +1,39 @@
+h1{
+    color:red;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+a{
+    text-align: center;
+    font-size: 20px;
+}
+.ortala{
+    text-align: center;
+}
+.padding{
+    padding-left: 10px;
+}
+h2{
+    font-size: 32px;
+    color:green;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    color:blue
+}
+body{
+    background-color: blanchedalmond;
+}
+/* ul{
+    margin-left: 45%;
+} */
+
+.anasayfali{
+    margin-left: 45%;
+}
